@@ -54,3 +54,5 @@ See [the vue-dropzone docs](https://rowanwins.github.io/vue-dropzone/docs/dist/i
 
 Please file any issues under [Github issues](https://github.com/Etheryte/nuxt-dropzone/issues), be sure to include your Nuxt release version as well as [a minimal, complete, and verifiable example](https://stackoverflow.com/help/mcve).  
 Contributions welcome, be sure to test the demo application with any changes before filing a pull request.
+
+nuxt 2
